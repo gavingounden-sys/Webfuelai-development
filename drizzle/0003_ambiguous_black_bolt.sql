@@ -1,0 +1,1 @@
+ALTER TABLE `formData` ADD CONSTRAINT `formData_websiteId_unique` UNIQUE(`websiteId`);

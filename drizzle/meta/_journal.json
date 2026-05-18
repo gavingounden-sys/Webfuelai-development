@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1775168043275,
+      "tag": "0000_worthless_richard_fisk",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1775168187509,
+      "tag": "0001_round_titanium_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1776309046493,
+      "tag": "0002_vengeful_richard_fisk",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1776496937640,
+      "tag": "0003_ambiguous_black_bolt",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1776611230246,
+      "tag": "0004_special_cassandra_nova",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1776725459568,
+      "tag": "0005_powerful_havok",
+      "breakpoints": true
+    }
+  ]
+}

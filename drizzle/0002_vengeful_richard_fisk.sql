@@ -1,0 +1,1 @@
+ALTER TABLE `formData` MODIFY COLUMN `logoUrl` text;
